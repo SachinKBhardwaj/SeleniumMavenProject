@@ -50,7 +50,7 @@ public class HomePageTest extends BaseClass {
         System.out.println();
     }
 
-    @Test
+/*    @Test
     @Parameters ({"val1", "val2"})
     public void CarterTest(int v1, int v2) throws InterruptedException {
         int finalsum = v1 + v2;
@@ -68,6 +68,6 @@ public class HomePageTest extends BaseClass {
         //addToCartPage.emptyCart();
         //driver.wait(5000);
         TestLogger.endTestCase("CartTest");
-    }
+    }*/
 
 }

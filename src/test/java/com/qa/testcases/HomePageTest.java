@@ -47,7 +47,7 @@ public class HomePageTest extends BaseClass {
         //addToCartPage.emptyCart();
         //driver.wait(5000);
         TestLogger.endTestCase("CartTest");
-        System.out.println();
+        System.out.println("Checker");
     }
 
 /*    @Test
